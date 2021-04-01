@@ -1,0 +1,104 @@
+xác định và mô tả phương pháp in chân
+- giải thích các mục tiêu và các loại dấu chân
+
+
+
+Bước đầu tiên để “hack” có thiện chí là việc dò tìm dấu vết.
+
+Dò tìm dấu vết là sự thu thập mọi thông tin có thể có liên quan đến mục tiêu và mạng mục tiêu. Bộ sưu tập thông tin này giúp xác định các cách khác nhau để tham gia vào mạng mục tiêu. Bộ sưu tập thông tin này có thể đã thu thập được thông qua thông tin cá nhân có sẵn công khai & thông tin nhạy cảm từ bất cứ nguồn bí mật nào.
+
+Thông thường, việc dò tìm dấu vết và thăm dò đang thực hiện các cuộc tấn công xã hội, tấn công hệ thống hay tấn công mạng hoặc thông qua bất kỳ kỹ thuật nào khác. Các phương thức thăm dò chủ động hay bị động cũng đều phổ biến để thu thập thông tin về mục tiêu theo cách trực tiếp hoặc gián tiếp.
+
+ Mục đích chung của giai đoạn này là giữ được tương tác với mục tiêu để thu được những thông tin mà không có bất kỳ phát hiện hay cảnh báo nào xảy ra.
+
+Thăm dò dấu vết giả mạo(Pseudonymous Footpringting)
+Thăm dò dấu vết giả mạo bao gồm cả những dấu vết thông qua các nguồn trực tuyến. Trong dấu vết thăm dò giả mạo đó, thông tin về mục tiêu được chia sẻ bằng cách đăng với một tên giả định. ID loại thông tin này được chia sẻ với thông tin xác thực để tránh sự theo dõi đến một nguồn thông tin thực khác.
+
+Thăm dò dấu vết mạng (Internet Footprinting)
+Thăm dò dấu vết mạng bao gồm các cách dò lần hay thăm dò để thu thập thông tin thông qua mạng. Trong việc thăm dò dấu vết mạng, quá trình như Google Hacking, Google Search, Google Application và bao gồm cả những công cụ tìm kiếm khác ngoài Google.
+
+Mục tiêu của việc thăm dò dấu vết
+Những mục tiêu chính của việc thăm dò dấu vết đó là:
+
+Để biết đặc điểm bảo mật
+Để giảm thiểu vùng trọng tâm
+Để xác định những lỗ hổng
+Vẽ bản đồ mạng
+
+
+
+
+
+
+
+
+Cách thăm dò dấu vết (Footprinting Methodology)
+Không phải là một vấn đề lớn để có thể tìm kiếm được thông tin liên quan đến bất kỳ ai như trên mạng internet, truyền thông xã hội, trang web chính thức và các nguồn khác sẽ có nhiều thông tin về người dùng là không chính xác, nhưng một tập hợp thông tin có thể đáp ứng các yêu cầu của kẻ tấn công và kẻ tấn công đó có thể thu thập đủ thông tin bằng khả năng của hắn.
+
+Dưới đây là các kỹ thuật thường được sử dụng bởi tin tặc:
+
+Thăm dò qua các công cụ tìm kiếm
+Thăm dò qua các kỹ thuật tiến bộ của Google Hacking
+Thăm dò qua các trang web mạng xã hội
+Thăm dò qua các trang mạng
+Thăm dò qua Email
+Thăm dò qua tình báo cạnh tranh
+Thăm dò qua WHOIS
+Thăm dò qua DNS
+Thăm dò qua mạng
+Thăm dò qua kỹ thuật xã hội
+
+
+Xác định hệ điều hành
+Sử dụng các trang web như netcraft.com cũng có thể giúp tìm kiếm các hệ điều hành đang được sử dụng bởi các tổ chức được nhắm làm mục tiêu. Truy cập trang web www.netcraft.com và nhập URL chính thức của tổ chức mục tiêu. Các kết quả trong hình bên dưới được ẩn để tránh các vấn đề về pháp lý.
+
+Kết quả mang lại cho tất các trang web liên quan đến miền của tổ chức đó bao gồm các thông tin hệ điều hành và thông tin khác. Nếu bạn nhập một URL hoàn chỉnh, nó sẽ hiển thị chi tiết chuyên sâu của các trang web cụ thể đó.
+
+
+
+Trang web phổ biến khác tìm kiếm các thông tin chi tiết về các trang web như là Shodan, i.e. www.shodan.io. Công cụ tìm kiếm Shodan cho phép bạn tìm các thiết bị được kết nối như bộ định tuyến, máy chủ, IoT & các thiết bị khác bằng cách sử dụng nhiều bộ lọc khác nhau.
+
+ Truy cập URL dưới đây:     www.shodan.io
+
+Hiện giờ, việc tìm kiếm của một vài dịch vụ như CSR1000v được thể hiện trong hình ảnh trang kế tiếp:
+
+Việc tìm kiếm của dịch vụ CSR1000v mang lại 416 kết quả cùng với địa chỉ IP, thông tin phiên bản phần mềm Cisco IOS, thông tin vị trí và những chi tiết khác.
+
+Dấu vết trang web bằng cách sử dụng Web Spiders
+Web Spiders hay Web Crawlers là những bots mạng được sử dụng để thực hiện duyệt web tự động có hệ thống trên World Wide Web. Duyệt web này được nhắm mục tiêu đến một trang web để thu thập thông tin cụ thể như tên, địa chỉ email.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

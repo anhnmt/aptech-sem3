@@ -1,0 +1,13 @@
+Network Scanning là một phương pháp khai thác những thông tin mạng như: Nhận dạng máy chủ (host), thông tin cổng “port”, và các dịch vụ bằng cách quét các mạng và cổng port.
+
+Mục đích chính của Network Scanning là:
+
+Nhận dạng host hoạt động trên mạng
+Nhận dạng các cổng port đóng và mở
+Nhận dạng thông tin hệ điều hành
+Nhận dạng các dịch vụ đang chạy trên mạng
+Nhận dạng các quá trình đang diễn ra trên mang
+Nhận dạng sự hiện diện của thiết bị bảo mật, ví dụ như tường lửa
+Nhận dạng kiến trúc hệ thống
+Nhận dạng các dịch vụ đang chạy
+Nhận dạng các điểm yếu
